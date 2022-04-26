@@ -1,5 +1,7 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=david-lev&show_icons=true&count_private=true&theme=dark&custom_title=My%20GitHub%20Stats)](https://github.com/david-lev)
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-lev&layout=compact&hide=CSS&theme=dark&show_icons=true&count_private=true&card_width=445)](https://github.com/david-lev)
+[![Stats](https://github-readme-stats.vercel.app/api?username=david-lev&show_icons=true&count_private=true&theme=dark&custom_title=My%20GitHub%20Stats)](https://github.com/david-lev#gh-dark-mode-only)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-lev&layout=compact&hide=CSS&theme=dark&show_icons=true&count_private=true&card_width=445)](https://github.com/david-lev#gh-dark-mode-only)
+[![Stats](https://github-readme-stats.vercel.app/api?username=david-lev&show_icons=true&count_private=true&theme=light&custom_title=My%20GitHub%20Stats)](https://github.com/david-lev#gh-light-mode-only)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-lev&layout=compact&hide=CSS&theme=light&show_icons=true&count_private=true&card_width=445)](https://github.com/david-lev#gh-light-mode-only)
 
 <!-- ### &nbsp; My social:
  -->
