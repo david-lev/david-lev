@@ -11,7 +11,7 @@
 [![My website](icons/light/website.png)](https://davidlev.me/?ref=github#gh-dark-mode-only)
 [![Spotify](icons/light/spotify.png)](https://open.spotify.com/user/4xgot8coriuhr6ad9f29pt0pv#gh-dark-mode-only)
 [![GitHub](icons/light/github.png)](https://github.com/david-lev#gh-dark-mode-only)
-[![Telegram](icons/light/telegram.png)](https://t.me/davidlev#gh-light-mode-only)
+[![Telegram](icons/dark/telegram.png)](https://t.me/davidlev#gh-light-mode-only)
 [![Pexels](icons/dark/pexels.png)](https://www.pexels.com/@davidlev#gh-light-mode-only)
 [![My website](icons/dark/website.png)](https://davidlev.me/?ref=github#gh-light-mode-only)
 [![Spotify](icons/dark/spotify.png)](https://open.spotify.com/user/4xgot8coriuhr6ad9f29pt0pv#gh-light-mode-only)
