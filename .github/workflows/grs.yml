@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate stats card (dark-mode)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&theme=github_dark&custom_title=My%20GitHub%20Stats&card_width=445
@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.PAT }}
 
       - name: Generate stats card (light-mode)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&theme=vue&custom_title=My%20GitHub%20Stats&card_width=445
@@ -32,7 +32,7 @@ jobs:
           token: ${{ secrets.PAT }}
 
       - name: Generate top languages card (dark-mode)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&hide=CSS&theme=github_dark&show_icons=true&count_private=true&card_width=445
@@ -40,7 +40,7 @@ jobs:
           token: ${{ secrets.PAT }}
 
       - name: Generate top languages card (light-mode)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&hide=CSS&theme=vue&show_icons=true&count_private=true&card_width=445
